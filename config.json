@@ -68,9 +68,9 @@
   },
   "mainAccountGiveCoins": {
     "enabled": false,
-    "mainUserId": "user id of main account",
+    "mainUserId": "OTQ1NjU1NzAzMzcxMTQ5MzEy.Gou_1p.LOLxHxx8LWVjqYNUQkdjkN2zmwjP37-h3Nc7hQ'",
     "payoutOnlyMode": false,
-    "tokenWhichWillPayout": "token of an alt",
-    "payoutChannelID": "channel id to payout"
+    "tokenWhichWillPayout": "OTQ1NjU1NzAzMzcxMTQ5MzEy.Gou_1p.LOLxHxx8LWVjqYNUQkdjkN2zmwjP37-h3Nc7hQ'",
+    "payoutChannelID": "1092339583804514404"
   }
 }
