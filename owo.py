@@ -24,7 +24,7 @@ def resource_path(relative_path):
         return os.path.join(sys._MEIPASS, relative_path)
     return os.path.join(os.path.abspath("."), relative_path)
 
-with open(resource_path("config.json")) as file:
+with open(resource_path("co.json")) as file:
     config = json.load(file)
 
 webhookEnabled = config["webhookEnabled"]
