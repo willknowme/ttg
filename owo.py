@@ -298,7 +298,7 @@ if __name__ == "__main__":
     if termuxNotificationEnabled and desktopNotificationEnabled:
         print(f"{Fore.RED}can't enable both desktop and termux notifications at the same time in variables.")
     
-    tokens_and_channels = [line.strip().split() for line in open("toke.txt", "r")]
+    tokens_and_channels = [line.strip().split() for line in open("token.txt", "r")]
     print(f'{Fore.GREEN}Loaded {len(tokens_and_channels)} tokens and channel IDs.')
     print(f'{Fore.YELLOW} current seed = {seed}')
     #logging.basicConfig(level=logging.WARNING)
