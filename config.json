@@ -43,9 +43,9 @@
   ],
   "autoDaily": false,
   "autoUse": {
-    "autoGem": true,
-    "autoUseLootbox": true,
-    "autoUseCrate": true
+    "autoGem": false,
+    "autoUseLootbox": false,
+    "autoUseCrate": false
   },
   "webhookEnabled": false,
   "webhook": "webhook here",
@@ -68,9 +68,9 @@
   },
   "mainAccountGiveCoins": {
     "enabled": false,
-    "mainUserId": "OTQ1NjU1NzAzMzcxMTQ5MzEy.Gou_1p.LOLxHxx8LWVjqYNUQkdjkN2zmwjP37-h3Nc7hQ'",
+    "mainUserId": "fd9fdc5e94e1c25ea5bde5676d78e570",
     "payoutOnlyMode": false,
-    "tokenWhichWillPayout": "OTQ1NjU1NzAzMzcxMTQ5MzEy.Gou_1p.LOLxHxx8LWVjqYNUQkdjkN2zmwjP37-h3Nc7hQ'",
-    "payoutChannelID": "1092339583804514404"
+    "tokenWhichWillPayout": "fd9fdc5e94e1c25ea5bde5676d78e570",
+    "payoutChannelID": "1092382187862634577"
   }
 }
