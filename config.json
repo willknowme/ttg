@@ -68,9 +68,9 @@
   },
   "mainAccountGiveCoins": {
     "enabled": false,
-    "mainUserId": "fd9fdc5e94e1c25ea5bde5676d78e570",
+    "mainUserId": "NzU4MTAzNTAxMzk3MTY0MDUy.G9F3FC.ayGq859Zl8iAjK3itabacV3TpEP_KWL7pjCp5A",
     "payoutOnlyMode": false,
-    "tokenWhichWillPayout": "fd9fdc5e94e1c25ea5bde5676d78e570",
+    "tokenWhichWillPayout": "NzU4MTAzNTAxMzk3MTY0MDUy.G9F3FC.ayGq859Zl8iAjK3itabacV3TpEP_KWL7pjCp5A",
     "payoutChannelID": "1092382187862634577"
   }
 }
